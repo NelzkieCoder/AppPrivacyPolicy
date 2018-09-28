@@ -4,8 +4,9 @@ layout: post
 date:   2018-09-29 00:53:47 +1200
 categories: jekyll update
 ---
+Privacy Policy
 
-The Repeat Habit app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
+built the Repeat Habit app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
