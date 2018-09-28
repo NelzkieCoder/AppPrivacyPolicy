@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 
 date:   2018-09-29 00:53:47 +1200
 categories: jekyll update
