@@ -24,6 +24,7 @@ Link to privacy policy of third party service providers used by the app
 
     Google Play Services
     Fabric
+    Microsoft App Center
 
 Log Data
 
